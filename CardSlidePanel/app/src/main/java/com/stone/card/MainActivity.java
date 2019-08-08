@@ -17,6 +17,9 @@ import com.stone.card.library.CardSlidePanel;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 
+ */
 public class MainActivity extends FragmentActivity {
 
     private CardSlidePanel.CardSwitchListener cardSwitchListener;
